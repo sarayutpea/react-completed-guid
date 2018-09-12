@@ -1,0 +1,14 @@
+.person{
+    width :60%;
+    margin:  15px auto;
+    background-color: lightgray;
+    border-radius: 15px;
+    border: 1px solid #eeeeee;
+    box-shadow: 0px 2px 3px 0px #cccccc;
+    padding:  16px;
+    text-align: center;
+
+}
+button{
+    
+}
